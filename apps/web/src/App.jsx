@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <div style={{ padding: 24, fontFamily: 'system-ui' }}>
-      <h1>UVA Studio is working! (JS)</h1>
+      <h1>UVA Studio is working! test 2 (JS)</h1>
       <p>API status: {status}</p>
     </div>
   )
