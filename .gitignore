@@ -1,0 +1,39 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+.vite/
+.parcel-cache/
+
+# Logs
+*.log
+logs/
+*.pid
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests / Coverage
+coverage/
+.nyc_output/
+
+# Docker volumes
+infra/mongo/
+infra/redis/
+GIT
